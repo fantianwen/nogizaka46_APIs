@@ -1,15 +1,62 @@
 
 ### nogizaka
 
+#### 成员名称-字母对应字典
+
+  成员名 | 字母名
+  --------- | -----------
+  岩本蓮加 | iwamotorenka
+  星野みなみ | hoshinominami
+新内眞衣 | shinuchimai
+相楽伊織 | sagaraiori
+山崎怜奈 | yamazakirena
+斎藤ちはる | saitouchiharu
+鈴木絢音 | suzukiayane
+齋藤飛鳥 | saitouasuka
+西野七瀬 | nishinonanase
+阪口珠美 | sakaguchitamami
+衛藤美彩 | etoumisa
+北野日奈子 | kitanohinako
+寺田蘭世 | teradaranze
+吉田綾乃クリスティー | yoshidaayanochristie
+川村真洋 | kawamuramahiro
+樋口日奈 | higuchihina
+伊藤かりん | itoukarin
+中村麗乃 | nakamurareno
+川後陽菜 | kawagohina
+中元日芽香 | nakamotohimeka
+山下美月 | yamashitamizuki
+斉藤優里 | saitouyuuri
+向井葉月 | mukaihazuki
+佐藤楓 | satoukaede
+中田花奈 | nakadakana
+井上小百合 | inouesayuri
+伊藤万理華 | itoumarika
+生駒里奈 | ikomarina
+伊藤理々杏 | itouriria
+佐々木琴子 | sasakikotoko
+桜井玲香 | sakuraireika
+秋元真夏 | akimotomanatsu
+伊藤純奈 | itoujunna
+若月佑美 | wakatsukiyumi
+白石麻衣 | shiraishimai
+堀未央奈 | horimiona
+能條愛未 | noujouami
+渡辺みり愛 | watanabemiria
+和田まあや | wadamaaya
+与田祐希 | yodayuuki
+生田絵梨花 | ikutaerika
+梅澤美波 | umezawaminami
+久保史緒里 | kuboshiori
+高山一実 | takayamakazumi
+大園桃子 | oozonomomoko
+松村沙友理 | matsumurasayuri
+
+
 #### 一、API部分
 
 > 集成域名: `http://112.74.32.29:8081`
 
-#### 成员名称-字母对应字典
-
-```
-{'岩本蓮加': 'iwamotorenka', '星野みなみ': 'hoshinominami', '新内眞衣': 'shinuchimai', '相楽伊織': 'sagaraiori',         '山崎怜奈': 'yamazakirena', '斎藤ちはる': 'saitouchiharu', '鈴木絢音': 'suzukiayane', '齋藤飛鳥': 'saitouasuka',         '西野七瀬': 'nishinonanase', '阪口珠美': 'sakaguchitamami', '衛藤美彩': 'etoumisa', '北野日奈子': 'kitanohinako',         '寺田蘭世': 'teradaranze', '吉田綾乃クリスティー': 'yoshidaayanochristie', '川村真洋': 'kawamuramahiro',         '樋口日奈': 'higuchihina', '伊藤かりん': 'itoukarin', '中村麗乃': 'nakamurareno', '川後陽菜': 'kawagohina',         '中元日芽香': 'nakamotohimeka', '山下美月': 'yamashitamizuki', '斉藤優里': 'saitouyuuri', '向井葉月': 'mukaihazuki',         '佐藤楓': 'satoukaede', '中田花奈': 'nakadakana', '井上小百合': 'inouesayuri', '伊藤万理華': 'itoumarika',         '生駒里奈': 'ikomarina', '伊藤理々杏': 'itouriria', '佐々木琴子': 'sasakikotoko', '桜井玲香': 'sakuraireika',         '秋元真夏': 'akimotomanatsu', '伊藤純奈': 'itoujunna', '若月佑美': 'wakatsukiyumi', '白石麻衣': 'shiraishimai',         '堀未央奈': 'horimiona', '能條愛未': 'noujouami', '渡辺みり愛': 'watanabemiria', '和田まあや': 'wadamaaya',         '与田祐希': 'yodayuuki', '生田絵梨花': 'ikutaerika', '梅澤美波': 'umezawaminami', '久保史緒里': 'kuboshiori',         '高山一実': 'takayamakazumi', '大園桃子': 'oozonomomoko', '松村沙友理': 'matsumurasayuri'}
-```
 
 ##### 1、分页获取新闻
 
