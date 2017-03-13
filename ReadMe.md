@@ -119,6 +119,46 @@
 }
 ```
 
+##### 4、分页获取成员的信息
+
+- 接口地址:`、member/blogs`
+- 调用方式:`GET`
+- 参数说明:
+
+  参数名 | 类型 | 必填 | 备注
+  --------- | -------------| --------- | -------------
+  pageNo | int | 否 | 默认为0（表示第一页）
+  pageSize | int | 否 | 默认为15
+  nameAlpha | String | 是 | 成员的名字的字母拼写
+  
+- 返回:
+	
+	```
+	{
+	  "content": [
+	    {
+	      "id": 2366,
+	      "author": "中元日芽香",
+	      "time": 1485605100,
+	      "title": "ご報告",
+	      "summary": "\n\t\t先程公式サイトで発表されました、私、中元日芽香は次の17thシングル期間中活動をお休みさせて...\t\t",
+	      "url": "http://blog.nogizaka46.com/himeka.nakamoto/smph/2017/01/036690.php",
+	      "name_alpha": "nakamotohimeka"
+	    },
+	    ...
+	 ],
+	  "last": false,
+	  "totalPages": 8,
+	  "totalElements": 30,
+	  "first": true,
+	  "numberOfElements": 4,
+	  "size": 4,
+	  "number": 0
+}
+	```
+
+
+
 
 
 
